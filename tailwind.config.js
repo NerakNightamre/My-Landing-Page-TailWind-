@@ -17,6 +17,8 @@ module.exports = {
         'tw': "url('../img/Tailwind.png')",
         'db': "url('../img/db.png')",
         'pokeball': "url('../img/pokeball.png')",
+        'sf': "url('/public/img/sanFrancisco.jpg')",
+        'sfd': "url('/public/img/sanFranciscoDesktop.jpg')"
 
       },
       backgroundColor: theme =>({
